@@ -1,0 +1,1 @@
+This repository contains the entire code involved in building a spherical robot which includes sensors and actuators working on various protocolas such as SPI, UART, I2C and GPIO. The driver level implementation of these protocols can be found in this code.
